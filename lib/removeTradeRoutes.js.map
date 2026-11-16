@@ -1,0 +1,1 @@
+{"version":3,"file":"removeTradeRoutes.js","sourceRoot":"","sources":["removeTradeRoutes.ts"],"names":[],"mappings":";;;AAAA,gFAGiD;AAGjD,oHAAoH;AAC7G,MAAM,iBAAiB,GAAG,CAC/B,IAAU,EACV,qBAAyC,6BAA0B,EAC7D,EAAE,CACR,kBAAkB,CAAC,UAAU,CAC3B,GAAG,kBAAkB,CAAC,SAAS,CAAC,IAAI,CAAC,EACrC,GAAG,kBAAkB,CAAC,YAAY,CAAC,IAAI,CAAC,CACzC,CAAC;AAPS,QAAA,iBAAiB,qBAO1B;AAEJ,kBAAe,yBAAiB,CAAC"}
