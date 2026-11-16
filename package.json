@@ -1,0 +1,13 @@
+{
+  "name": "@civ-clone/base-city-trade-route",
+  "version": "0.0.0",
+  "description": "Trade route mechanics for a rule set to use: a city's base trade, the yields its routes add, how many routes a city holds and which one a new route replaces, goods names, and clearing a destroyed city's routes.",
+  "repository": "git@github.com:civ-clone/base-city-trade-route.git",
+  "keywords": [
+    "typescript",
+    "civilization"
+  ],
+  "author": "dom111 <dom111@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false
+}
